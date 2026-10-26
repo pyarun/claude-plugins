@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pyarun-plugins",
+  "description": "Claude Code plugins by Arun Mittal.",
+  "owner": {
+    "name": "Arun Mittal",
+    "url": "https://github.com/pyarun"
+  },
+  "plugins": [
+    {
+      "name": "pyarun",
+      "source": "./plugins/pyarun",
+      "description": "Arun Mittal's Claude Code toolkit. Work observer: mines your sessions every day for posts, articles, talks, learning gaps and habits, and files them in an idea library; /pyarun:idea captures on demand. macOS.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Arun Mittal"
+      },
+      "category": "productivity",
+      "keywords": [
+        "content",
+        "learning-in-public",
+        "ideas",
+        "journal",
+        "transcripts"
+      ]
+    }
+  ]
+}

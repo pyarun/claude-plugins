@@ -1,0 +1,9 @@
+{
+  "library_dir": "~/ideas",
+  "deny_cwd_prefixes": [],
+  "deny_skills": [],
+  "spot_model": "sonnet",
+  "lookback_days": 3,
+  "schedule_hour": 19,
+  "email_to": ""
+}
